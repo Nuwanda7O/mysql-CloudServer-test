@@ -1,0 +1,2 @@
+INSERT INTO `news`(`tag`, `account`, `title`, `content`) VALUES (0, '', 'Node.js 连接 MySQL', '本章节我们将为大家介绍如何使用 Node.js 来连接 MySQL，并对数据库进行操作。\r\n\r\n如果你还没有 MySQL 的基本知识，可以参考我们的教程：MySQL 教程。\r\n\r\n本教程使用到的 Websites 表 SQL 文件：websites.sql。');
+INSERT INTO `news`(`tag`, `account`, `title`, `content`) VALUES (1, '', 'Node.js 连接 MySQL', '本章节我们将为大家介绍如何使用 Node.js 来连接 MySQL，并对数据库进行操作。\r\n\r\n如果你还没有 MySQL 的基本知识，可以参考我们的教程：MySQL 教程。\r\n\r\n本教程使用到的 Websites 表 SQL 文件：websites.sql。');
